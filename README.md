@@ -34,8 +34,8 @@
 
 []
 
-[ツインテール](twintail.py)
+[ツインテール](kanojo/twintail.py)
 
 []
 
-[カーディガン](cardigan.py)
+[カーディガン](kanojo/cardigan.py)
