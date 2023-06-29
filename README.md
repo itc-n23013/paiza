@@ -16,7 +16,7 @@
 
 [つり目](hackathon/turime.py)
 
-[]
+[めがね](hackathon/megane.py)
 
 [Cute衣装](hackathon/Cute-isho.py)
 
