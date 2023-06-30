@@ -26,6 +26,8 @@
 
 [水着](hackathon/mizugi.py)
 
+[マイク](hackathon/maiku.py)
+
 # プログラミングで彼女をつくる
 
 [つり目](kanojo/turime.py)
