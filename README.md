@@ -34,7 +34,7 @@
 
 [ロングヘア](kanojo/long-hair.py)
 
-[]
+[ポニーテール](kanojo/ponytail.py)
 
 [ツインテール](kanojo/twintail.py)
 
