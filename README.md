@@ -30,6 +30,8 @@
 
 [つり目](kanojo/turime.py)
 
+[猫耳](kanojo/nekomimi.py)
+
 [ショートヘア](kanojo/short-hair.py)
 
 [ロングヘア](kanojo/long-hair.py)
