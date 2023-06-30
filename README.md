@@ -38,6 +38,6 @@
 
 [ツインテール](kanojo/twintail.py)
 
-[]
+[セーラー服](kanojo/sailor-huku.py)
 
 [カーディガン](kanojo/cardigan.py)
